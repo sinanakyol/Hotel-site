@@ -1,6 +1,6 @@
 # Hotel-site
 
-### with CSS
+### with CSS (Responsive Design)
 
 ![hotel-site](ss.png)
 
