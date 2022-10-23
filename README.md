@@ -1,3 +1,5 @@
+https://sinanakyol.github.io/Hotel-site/
+
 # Hotel-site
 
 ### with CSS (Responsive Design)
