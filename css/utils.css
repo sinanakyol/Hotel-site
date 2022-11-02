@@ -107,7 +107,7 @@
 }
 
 .btn-warning {
-  color: var(--white);
+  color: var(--dark);
   background-color: var(--warning);
 }
 
@@ -126,7 +126,7 @@
 .btn-outline {
   background: transparent;
   border: 1px solid var(--white);
-  color: var(--white);
+  color: var(--dark);
 }
 
 /* flex items */
