@@ -77,6 +77,8 @@ img {
 }
 .navbar span {
   color: var(--warning);
+  font-family: cursive;
+  font-size: 3.5rem;
 }
 
 /* header */
