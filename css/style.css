@@ -77,14 +77,15 @@ img {
 }
 .navbar span {
   color: var(--warning);
-  font-family: cursive;
-  font-size: 3.5rem;
+  font-family: "Satisfy", cursive;
+  /* font-weight: 700; */
+  font-size: 4rem;
 }
 
 /* header */
 
 .main-header {
-  background-image: url("../img/bg-1.jpeg");
+  background-image: url("../img/sea.webp");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
