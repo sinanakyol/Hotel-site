@@ -241,7 +241,7 @@ img {
 }
 
 .footer .social a {
-  color: var(--danger);
+  color: var(--warning);
   margin-right: 10px;
 }
 
