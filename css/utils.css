@@ -11,11 +11,11 @@
 
 :root {
   --white: #fff;
-  --primary: rgb(174, 107, 59);
+  --primary: rgb(171, 107, 61);
   --secondary: #ebdfc8;
   --success: #28a745;
   --danger: #dc3545;
-  --warning: #ffc107;
+  --warning: #f9cd4b;
   --info: #17a2b8;
   --dark: #585b5f;
   --light: #f8f9fa;
