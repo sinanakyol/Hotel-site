@@ -227,7 +227,7 @@ img {
 
 .article {
   margin: 1.5rem;
-  color: #fff;
+  color: var(--dark);
 }
 
 /* footer */
@@ -241,7 +241,7 @@ img {
 }
 
 .footer .social a {
-  color: var(--warning);
+  color: var(--dark);
   margin-right: 10px;
 }
 
