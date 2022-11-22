@@ -2,7 +2,7 @@ https://sinanakyol.github.io/Hotel-site/
 
 # Hotel-site
 
-### with CSS (Responsive Design)
+*developed using HTML & CSS (Responsive Design)*
 
 ![hotel-site](ss.png)
 
