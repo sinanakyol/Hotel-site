@@ -245,6 +245,7 @@ img {
   align-items: center;
   text-align: center;
   height: 200px;
+  color: var(--dark);
 }
 
 .footer .social a {
