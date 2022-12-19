@@ -4,8 +4,13 @@ https://sinanakyol.github.io/Hotel-site/
 
 # Hotel-site
 
-HTML | CSS | Responsive Design
-*Developed using only basic features and tools of CSS without using any framework or library*
+HTML | CSS | Responsive Design   
+
+
+*Developed using only basic features and tools of CSS without using any framework or library*  
+
+
+
 
 ![hotel-site](ss.png)
 
